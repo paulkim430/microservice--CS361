@@ -8,4 +8,4 @@ HOW TO RECEIVE DATA FROM THE PIE CHART MICROSERVICE
 To receive data from the microservice, all you have to do it click on the URL that is hosting the Flask web server while running your software. After the user indicates that they want to create a pie chart of their expenditures, the post request will create a pie chart within the web server and display it to the user.
 
 
-![Alt text](microserviceuml.png)
+![Alt text](microserviceuml.png) 
