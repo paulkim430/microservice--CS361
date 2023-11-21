@@ -9,3 +9,4 @@ To receive data from the microservice, all you have to do it click on the URL th
 
 
 ![Alt text](microserviceuml.png) 
+ 
